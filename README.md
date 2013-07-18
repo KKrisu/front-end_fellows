@@ -12,6 +12,8 @@ Front-End and JS (node.js etc.) related materials we've found in our entire geek
 ## IMAGES
 - optymalizacja plikow PNG: [http://tinypng.org/](http://tinypng.org/)
 - optymalizacja plikow JPG: [http://tools.shadowdev.com/tinyjpg/](http://tools.shadowdev.com/tinyjpg/)
+- optymalizacja plików JPG (jak w/w): [http://www.jpegmini.com/](http://www.jpegmini.com/)
+
 
 ## JS LIBS
 - sugar js, ktory powinien poznac kazdy przed stworzeniem swojego pliku z toolami: 
